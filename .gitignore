@@ -1,0 +1,4 @@
+mkdir e-commerce-api
+cd e-commerce-api
+npm init -y
+npm install express mongoose dotenv
